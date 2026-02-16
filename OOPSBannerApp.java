@@ -1,6 +1,6 @@
 /**
- * OOPSBannerApp
- * UC1: Print OOPS to Console
+ * OOPSBannerApp-UC2
+ * UC1: Print OOPS in banner format using * and spaces
  *
  * @author Saksh
  * @version 1.0
